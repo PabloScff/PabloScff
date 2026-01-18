@@ -55,4 +55,4 @@ Sou **Estudante e Desenvolvedor em formação**, com maior afinidade em **Front-
 ---
 
 ### 📊 GitHub Stats
-![Pablo GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloScffB&show_icons=true&theme=dark)
+![Pablo GitHub Stats](https://github-readme-stats.vercel.app/api?username=PabloScff&show_icons=true&theme=dark)
