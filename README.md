@@ -25,7 +25,7 @@ Sou **Estudante e Desenvolvedor em formação**, com maior afinidade em **Front-
 
 ### 🔗 Conecte-se comigo
 📧 **Email:** pablo.pereiralm@gmail.com  
-💼 **LinkedIn:** *(adicione o link aqui)*  
+💼 **LinkedIn:** *([ ](https://www.linkedin.com/in/pablo-lima-543630289/))*  
 💻 **GitHub:** Você já está aqui 😄  
 
 ---
